@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Murat</h1>
+<h1 align="center">Hello there 👋, I'm Murat</h1>
 <h3 align="center">Graduate of Applied Mathematics of Ufa University of Science and Technology</h3>
 
 <h3 align="left">Languages and Tools:</h3>
