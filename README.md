@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
-<h3 align="center">Applied mathematics graduate, Ufa University of Science and Technology</h3>
+<h3 align="center">Graduate of Applied Mathematics of Ufa University of Science and Technology</h3>
 
 - 🌱 I’m currently learning **machine learning**
 
